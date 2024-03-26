@@ -11,9 +11,9 @@ For this practice project, you'll use the weather data package provided by the o
 
 First, you'll use the curl command to scrape weather data via the wttr.in website. For example, to get data for Casablanca, enter:
 
-1
+
 curl wttr.in/casablanca
-Copied!
+
 which prints the following to stdout:
 
 ![image](https://github.com/MEldeeeb/daily_weather_forecast_pipeline/assets/87948077/725c35f9-90e7-4c51-aebf-b5183fac0f67)
